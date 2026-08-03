@@ -1,2 +1,4 @@
-# py-todo-list-16
+# Py Todo List 16
+
 A simple CLI-based Todo List application in Python.
+
